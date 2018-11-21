@@ -3,61 +3,61 @@
     {
       "size" : "16x16",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_16pt@1x.png",
+      "filename" : "Veripark-Logo-2048-16.png",
       "scale" : "1x"
     },
     {
       "size" : "16x16",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_16pt@2x.png",
+      "filename" : "Veripark-Logo-2048-33.png",
       "scale" : "2x"
     },
     {
       "size" : "32x32",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_32pt@1x.png",
+      "filename" : "Veripark-Logo-2048-32.png",
       "scale" : "1x"
     },
     {
       "size" : "32x32",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_32pt@2x.png",
+      "filename" : "Veripark-Logo-2048-64.png",
       "scale" : "2x"
     },
     {
       "size" : "128x128",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_128pt@1x.png",
+      "filename" : "Veripark-Logo-2048-128.png",
       "scale" : "1x"
     },
     {
       "size" : "128x128",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_128pt@2x.png",
+      "filename" : "Veripark-Logo-2048-257.png",
       "scale" : "2x"
     },
     {
       "size" : "256x256",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_256pt@1x.png",
+      "filename" : "Veripark-Logo-2048-256.png",
       "scale" : "1x"
     },
     {
       "size" : "256x256",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_256pt@2x.png",
+      "filename" : "Veripark-Logo-2048-513.png",
       "scale" : "2x"
     },
     {
       "size" : "512x512",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_512pt@1x.png",
+      "filename" : "Veripark-Logo-2048-512.png",
       "scale" : "1x"
     },
     {
       "size" : "512x512",
       "idiom" : "mac",
-      "filename" : "VERIPARK-amblem_512pt@2x.png",
+      "filename" : "Veripark-Logo-2048-1024.png",
       "scale" : "2x"
     }
   ],
