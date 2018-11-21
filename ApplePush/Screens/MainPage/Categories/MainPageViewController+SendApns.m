@@ -277,7 +277,7 @@ NSInteger const ApplePushPort = 2195;
 - (NSData *)apnsMessageWithPayload:(NSString *)payload token:(NSString *)token {
 	// Create buffer with following payload
 	// Payload format 0 + 0 + 32 + Token Size + Token + 0 + Payload
-	char buffer[sizeof(uint8_t) + sizeof(uint32_t) * 2 + sizeof(uint16_t) + 32 + sizeof(uint16_t) + 256];
+	char buffer[sizeof(uint8_t) + sizeof(uint32_t) * 2 + sizeof(uint16_t) + 32 + sizeof(uint16_t) + payload.length];
 	char *p = buffer;
 	
 	// Add 0 to buffer
